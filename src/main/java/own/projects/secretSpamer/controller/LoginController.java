@@ -2,6 +2,7 @@ package own.projects.secretSpamer.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+import own.projects.secretSpamer.database.AccountRepository;
 
 @Controller
 public class LoginController {
